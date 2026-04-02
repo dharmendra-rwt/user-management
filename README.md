@@ -39,3 +39,7 @@ Dharmendra Rawat
 ##  GitHub Repository
 
 https://github.com/dharmendra-rwt/user-management.git
+
+##  Output Screenshot
+
+![Output](Screenshot%20(1221).png)
